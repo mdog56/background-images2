@@ -1,0 +1,36 @@
+header {
+  background-image: url("../images/pattern.jpeg");
+  color: yellow;
+  font-size: 50px;
+  font-weight: bold;
+  margin: 50px 0;
+}
+
+h1 {
+    font-size: 22px;
+    color: white;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 13px;
+}
+
+#brushes {
+    background-color: turquoise;
+}
+
+#frames {
+    background-color: red;
+}
+
+#paint {
+    background-color: blue;
+}
+
+span {
+    color: blue;
+}
